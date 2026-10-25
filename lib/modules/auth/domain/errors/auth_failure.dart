@@ -1,6 +1,7 @@
 enum AuthFailureType {
   invalidCredentials,
   profileNotFound,
+  invalidProfile,
   accessDenied,
   network,
   unexpected,
